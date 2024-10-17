@@ -3,10 +3,7 @@
 ### 👨🏻‍💻 &nbsp;A propos
 
 💡 &nbsp;Découvre des nouvelles technologies et développe mon savoir dans le développement web.\
-🎓 &nbsp;En fin de formation Bac +2 - Développeur Web et Web Mobile chez Philiance.\
-🌱 &nbsp;En cours de recherche d'un stage du 25/10 au 30/11 dans l'univers Javascript / React.\
 ✍️ &nbsp;Etude approfondie des outils de développements front SASS, React.\
-📄 &nbsp;Faites un tour sur mon [CV](https://nayanchauveau.github.io/resume-it/) pour plus de détails.
 
 ### 🛠 &nbsp;Mes technos
 
